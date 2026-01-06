@@ -1,1 +1,3 @@
-
+Setup project 
+1. Copy Only WebForm1.aspx and WebForm1.aspx.cs file
+2. That all
